@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 😄 I love cats and dogs, also I love going to the gym, basquetball and working out, lastly I love playing Guitar and Ukulele.
-- ⚡ I am System Engineer from UNAM university in Moquegua. I have two diplomades in Data Science and Business Analytics.
+- ⚡ I am a System Engineer from UNAM university in Moquegua. I have two diplomades in Data Science and Business Analytics.
 - 🌱 I won an scholarship in English from PRONABEC.
 - 😊 I had the oportunity to teach English in the Cultural, and teach some subjects in System Engineering at UNAM University.
 - 🌟 I am interested in learning Backend, and Data Science.
