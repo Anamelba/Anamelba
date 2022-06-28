@@ -15,11 +15,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 😄 I love cats and dogs, also I love going to the gym, basquetball and working out, lastly I love playing Guitar and Ukulele.
-- ⚡ I am a System Engineer from UNAM university in Moquegua. I have two diplomades in Data Science and Business Analytics.
-- 🌱 I won an scholarship in English from PRONABEC.
-- 😊 I had the oportunity to teach English in the Cultural, and teach some subjects in System Engineering at UNAM University.
-- 🌟 I am interested in learning Backend, and Data Science.
+- 😄 I love cats and dogs, also I love going to the gym, and playing Guitar and Ukulele.
+- ⚡ I am a Front-end developer from Laboratoria and a System Engineer from UNAM university in Moquegua. I have two diplomades in Data Science and Business Analytics.
+- 🌟 I am interested in becoming a Backend developer, and a Data Science in the future.
 - 📫 How to reach me: lissette.machaca@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -28,10 +26,8 @@
 <div align="center" align=center> 
   <a href="mailto:lissette.machaca@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
   &nbsp;
-  <a href="[https://www.linkedin.com/in/nicol-mm/](https://www.linkedin.com/in/lissette-machaca-a3b400137/)">
-  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+  <a href="[https://www.linkedin.com/in/lissette-machaca-a3b400137/]"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
   &nbsp;
-  <a href="[https://github.com/nicolmendoza?tab=repositories](https://github.com/Anamelba?tab=repositories)">
-  <img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+  <a href="[https://github.com/Anamelba?tab=repositories]<img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
   
 <p align="center"><strong>Here you find some of my proyects ⤵ :</strong></p>
